@@ -81,22 +81,30 @@ EmbeddedEngineer amir = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Languages & Tools
 
-<div align="center">
+**Languages I work with:**
 
-![Amir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirslz74&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![C](https://img.shields.io/badge/C-Advanced-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirslz74&layout=compact&theme=dark&hide_border=true)
+**Tools I use daily:**
 
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1DB954?style=flat-square)
 
 ---
 
 ## 📫 Get In Touch
 
 - 📧 **Email:** [amirslz74@gmail.com](mailto:amirslz74@gmail.com)
-- 📞 **Phone:** +90 55 50 67574
+- 📞 **Phone:** +90 555 006 7574
 - 📍 **Location:** Ankara, Turkey — Open to relocation & remote
 
 ---
