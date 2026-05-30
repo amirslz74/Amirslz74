@@ -64,12 +64,10 @@ EmbeddedEngineer amir = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🚗 **Automotive ECU** | 8-ch ignition + injection, wideband O₂, CAN/LIN — deployed on 6+ vehicles | STM32, CAN, C++ |
+| 🚗 **Automotive ECU** | 8-ch ignition + injection, wideband O₂, CAN/LIN — deployed on 10+ vehicles | STM32, CAN, C++ |
 | 🏭 **Industrial Control Boards** | 10 PLC-style boards running 24/7 for 4+ years, zero failures | STM32, FreeRTOS, RS-422 |
 | 🏠 **Smart Home IoT Platform** | ESP32 mesh (ESP-NOW), 4 sensor nodes, real-time web dashboard | ESP32, MQTT, ESP-NOW |
 | 👁️ **YOLO AI Vision Module** | Real-time object detection on ESP32-CAM & CCTV, production deployed | Python, YOLO, ESP32-CAM |
-| 👟 **Smart Gait Analysis Insole** | BLE pressure sensors + ESP32 + custom Android app | ESP32, BLE, Android |
-| ⚖️ **JAANA Digital Scale** | STM32 precision scale — OLED, auto-calibration, battery management | STM32, HX711, OLED |
 
 ---
 
